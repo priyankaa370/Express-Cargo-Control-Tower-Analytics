@@ -1,2 +1,6 @@
 # Express-Cargo-Control-Tower-Analytics
-Built an Express Cargo Control Tower analytics platform to monitor SLA performance, operational delays, capacity utilization, and shipment risk, enabling proactive decision-making for express cargo operations.
+This project analyses an Express Cargo Control Tower monitor SLA performance, operational delays, capacity utilization, and shipment risk, enabling proactive decision-making for express cargo operations.
+
+First of all, I am going to define some terminologies for this analysis.
+
+
