@@ -4,3 +4,5 @@ This project analyses an Express Cargo Control Tower monitor SLA performance, op
 First of all, I am going to define some terminologies for this analysis.
 
 
+Step 1: I designed a shipment lifecycle fact table to establish a single operational truth for SLA performance, handling incomplete event data and in-transit shipments consistent with real express cargo operations.
+
